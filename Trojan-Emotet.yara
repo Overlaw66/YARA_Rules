@@ -9,6 +9,7 @@ rule Emotet_V2
          Date_Created = "07-11-2022"
 		 Mal_Type = "Trojan"
          Detection = "Lose - performing well on new Emotet campaign"
+	 Version = "2.0"
 		 Control = "This rule is still in testing and should not be used in a live env as it could generate many FPs"
                   
          
