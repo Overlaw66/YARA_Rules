@@ -9,6 +9,7 @@ rule Royal_Ran_V1
          Date_Created = "2022-10-11"
 		 Mal_Type = "Ransomware"
 		 Detection = "Tight - very little variation, V2 will account for modifiers"
+		 Version = "1.0"
 		 Sample_md5 = "AFD5D656A42A746E95926EF07933F054"
                   
          
