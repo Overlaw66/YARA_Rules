@@ -8,6 +8,7 @@ rule Qbot_V1
          Description = "Rule to identify strains of Qbot malware"
          Date_Created = "2022-01-02"
          Detection = "Tight but performing well in current campaign"
+	 Version = "1.0"
 		     Mal_Type = "Trojan"
                   
          
